@@ -17,7 +17,7 @@
 cd $HOME
 git clone https://github.com/khalseh/RAHelper.git
 cd RAHelper
-chmod +x beyond.sh
+chmod +x ketman.sh
 ./ketman.sh install
 ./ketman.sh 
 
